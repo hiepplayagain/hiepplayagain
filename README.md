@@ -20,4 +20,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-![snake gif](https://github.com/YOUR_USERNAME/hiepplayagain/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/hiepplayagain/hiepplayagain/blob/output/github-snake-dark.svg)
