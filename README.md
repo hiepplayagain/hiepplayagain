@@ -17,4 +17,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hiepplayagain&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 ---
-![snake gif](https://github.com/hiepplayagain/hiepplayagain/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/hiepplayagain/hiepplayagain/blob/output/github-snake-dark.svg?v=1)
