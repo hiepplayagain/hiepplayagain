@@ -119,17 +119,6 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 ├── ⏳ Redis & Caching
 └── ⏳ Deploy lên cloud (AWS / GCP)
 ```
-
----
-
-## ⏱️ WakaTime Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[WAKATIME_USERNAME]&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
-</div>
-
-> 💡 Setup: Đăng ký tại [wakatime.com](https://wakatime.com), cài extension vào VS Code, thay `[WAKATIME_USERNAME]` bằng username WakaTime của bạn.
-
 ---
 
 ## 📊 GitHub Stats
