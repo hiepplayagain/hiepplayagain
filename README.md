@@ -1,15 +1,15 @@
 <div align="center">
 
 <!-- Animated Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20[TÊN]%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20There!%20I'm%20The%20Hiep%20👋&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Welcome%20to%20my%20GitHub%20Profile&descAlignY=55&descSize=18" width="100%"/>
 
 <!-- Typing SVG -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-stack+Student+%40+[TRƯỜNG];Building+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full-stack+Student+%40+USTH;Building+things+one+commit+at+a+time+%F0%9F%9A%80" alt="Typing SVG" />
 
 <!-- Profile Views + Followers Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=[GITHUB_USERNAME]&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/[GITHUB_USERNAME]?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=FOLLOWERS" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=hiepplayagain&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/hiepplayagain?style=for-the-badge&color=0e75b6&labelColor=1c1917&label=FOLLOWERS" alt="followers"/>
 </p>
 
 </div>
@@ -19,15 +19,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-name: "[TÊN]"
+name: "Dang The Hiep"
 location: Vietnam 🇻🇳
-university: "[TRƯỜNG]"
-major: "[NGÀNH]"
+university: "USTH"
+major: "ICT"
 focus:
   - Full-stack Development
   - Web Applications
   - Clean Code & Good Vibes
-hobbies: [Coding, Gaming, Exploring New Tech, Music, Cà phê ☕]
+hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 ```
 
 ---
@@ -43,7 +43,7 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Cà phê ☕]
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=[GITHUB_USERNAME]&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hiepplayagain&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
 </div>
 
 ---
@@ -82,11 +82,11 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Cà phê ☕]
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=[GITHUB_USERNAME]&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GITHUB_USERNAME]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiepplayagain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=[GITHUB_USERNAME]&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=hiepplayagain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -94,7 +94,7 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Cà phê ☕]
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=[GITHUB_USERNAME]&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiepplayagain&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
@@ -114,13 +114,13 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Cà phê ☕]
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/[LINKEDIN]/" target="_blank">
+  <a href="https://www.linkedin.com/in/hiepthe215/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/[FACEBOOK]" target="_blank">
+  <a href="https://www.facebook.com/hiep.choilai" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
-  <a href="https://github.com/[GITHUB_USERNAME]" target="_blank">
+  <a href="https://github.com/hiepplayagain" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
