@@ -40,6 +40,14 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 
 ---
 
+## 😂 Random Dev Joke
+
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder" alt="Dev Joke" />
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -78,6 +86,52 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 
 ---
 
+## 🎯 Skill Progress
+
+<div align="center">
+
+| Skill | Progress |
+|-------|----------|
+| JavaScript / TypeScript | ![90%](https://progress-bar.xyz/90/?scale=100&title=JS/TS&width=200&color=F7DF1E&suffix=%) |
+| React / Next.js | ![80%](https://progress-bar.xyz/80/?scale=100&title=React&width=200&color=61DAFB&suffix=%) |
+| Node.js / Express | ![75%](https://progress-bar.xyz/75/?scale=100&title=Node&width=200&color=339933&suffix=%) |
+| Python | ![65%](https://progress-bar.xyz/65/?scale=100&title=Python&width=200&color=3776AB&suffix=%) |
+| Database (SQL/NoSQL) | ![70%](https://progress-bar.xyz/70/?scale=100&title=DB&width=200&color=4479A1&suffix=%) |
+
+</div>
+
+---
+
+## 🗺️ Learning Roadmap
+
+```
+2025 Goals
+│
+├── ✅ HTML / CSS / JavaScript cơ bản
+├── ✅ React & TypeScript
+├── ✅ Node.js & RESTful API
+├── ✅ SQL & PostgreSQL
+│
+├── 🔄 Next.js (App Router)
+├── 🔄 Docker & CI/CD cơ bản
+│
+├── ⏳ System Design cơ bản
+├── ⏳ Redis & Caching
+└── ⏳ Deploy lên cloud (AWS / GCP)
+```
+
+---
+
+## ⏱️ WakaTime Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=[WAKATIME_USERNAME]&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats"/>
+</div>
+
+> 💡 Setup: Đăng ký tại [wakatime.com](https://wakatime.com), cài extension vào VS Code, thay `[WAKATIME_USERNAME]` bằng username WakaTime của bạn.
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -105,9 +159,8 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/dist/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/hiepplayagain/hiepplayagain/output/github-snake.svg" />
   </picture>
-  
 </div>
 
 ---
