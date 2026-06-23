@@ -48,14 +48,6 @@ hobbies: [Coding, Gaming, Exploring New Tech, Music, Coffee~ ☕]
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hiepplayagain&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="trophies"/>
-</div>
-
----
-
 ## 🛠️ Languages & Tools
 
 <div align="center">
